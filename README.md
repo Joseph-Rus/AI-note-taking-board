@@ -10,4 +10,4 @@
   <img src="https://github.com/user-attachments/assets/13f01362-eccd-4b9d-b1f5-460901286261" width="500px">
 
 - [Micro SD](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7CRKRZ/ref=sr_1_3?crid=1GROQM3H7ZIAN)  
-  <img src="https://github.com/user-attachments/assets/some-other-image-id" width="500px">
+
