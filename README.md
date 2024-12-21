@@ -3,6 +3,7 @@
 - [Microsd slot](https://www.digikey.com/en/products/detail/adafruit-industries-llc/254/5761230?s=N4IgTCBcDaIIIBMCGAzATgVwJYBcAEAtlgMZoD2AygCIgC6AvkA)  
   <img src="https://github.com/user-attachments/assets/ffa00ad2-161f-4725-8773-10e4392a6171
 " width="500px">
+![image](https://github.com/user-attachments/assets/13f01362-eccd-4b9d-b1f5-460901286261)
 
 - [Main board](https://www.seeedstudio.com/Seeed-XIAO-MG24-Sense-p-6248.html)  
   <img src="https://github.com/user-attachments/assets/0606b396-fc02-43f8-8ea9-2946be4e07ad
