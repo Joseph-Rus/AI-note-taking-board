@@ -13,4 +13,4 @@
 " alt="Battery" width="500px">
 
 - [Micro SD](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7CRKRZ/ref=sr_1_3?crid=1GROQM3H7ZIAN&dib=eyJ2IjoiMSJ9.CERmNUNW4J8blZ_JtRw1SF_G8vWUPQyQes6Kd2-VOgDe5tznKVGzoDWh8m2RgOlCmnsUFKlKY9qfd-qxZsFrY_WgHSENFgmT3qj3YygdC5-R-lnzTS2kmJYPsPVzdbz1BJpV-pR-CFw6OstEA3e0wUOs1kRcPRFKUW-74N4dVHVtasShBzHjorAsc0e6DY9A7ZZwky0ZLgyvlziHsE7FVI9EjhPHgaHMtRFKr_w4OVI.O751mxC9Arrc4B0isI41A8iMnfmoQhcJMfzLf9_fJ24&dib_tag=se&keywords=micro+sd+card&qid=1734743092&sprefix=mi%2Caps%2C235&sr=8-3)
-  <img src="https://via.placeholder.com/500" alt="Micro SD" width="500px">
+  
